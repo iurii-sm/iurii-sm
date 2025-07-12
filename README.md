@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![JPG](<img src="https://github.com/iurii-sm/iurii-sm/main/icons/media/me.jpg")
+![JPG](<img src="https://github.com/iurii-sm/iurii-sm/main/media/me.jpg")
   
 </div>
 
