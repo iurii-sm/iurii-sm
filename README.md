@@ -1,4 +1,7 @@
-# Привет, я Юрий - Manual QA specialist 👋
+# Привет, я Юрий - manual QA specialist 👋 
+[![Linkedin: iurii-smirnov-qa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iurii-smirnov-qa)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge=Gmail&logoColor=white)](mailto:iurii.smirnov.qa@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Iurii_Sm)
 
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/me.jpg" width="400"/>
 
@@ -27,7 +30,7 @@
 
 ---
 
-# 💾 Тестовая документация:
+### 💾 Тестовая документация:
 
 <div>
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -38,7 +41,7 @@
 
 ---
 
-# 🛠 Testing tools:
+### 🛠 Testing tools:
 
 <div>
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/chromedev.svg" title="chromedevtools" alt="chromedevtools" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -50,7 +53,7 @@
 
 ---
 
-# 💾 Databases:
+### 💾 Databases:
 
 <div>
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/mysql.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -59,7 +62,7 @@
 
 ---
 
-# ✏️ Automation (basic experience):
+### ✏️ Automation (basic experience):
 
 <div>
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/java.svg" title="java" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -69,7 +72,7 @@
 
 ---
 
-# Additionally:
+### Additionally:
 
 <div>
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -80,7 +83,9 @@
 ---
 ### 📬 Contact Me
 
-I’m open to freelance, remote roles or internships in QA.  
+<div>
+I’m open to freelance, remote roles or internships in QA. 
+</div>
 Feel free to connect on: 
 [![Linkedin: iurii-smirnov-qa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iurii-smirnov-qa)&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iurii.smirnov.qa@gmail.com)&nbsp;&nbsp;&nbsp;
