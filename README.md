@@ -63,17 +63,11 @@ Additionally:
 
 </p>
 
-## Мои контакты
-
-[![Linkedin: iurii-smirnov-qa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iurii-smirnov-qa)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Iurii_Sm)
-
 ---
-
 ### 📬 Contact Me
 
 I’m open to freelance, remote roles or internships in QA.  
 Feel free to connect on: 
-[LinkedIn](https://linkedin.com/in/iurii-smirnov-qa)
+[![Linkedin: iurii-smirnov-qa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iurii-smirnov-qa)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iurii.smirnov.qa@gmail.com)&nbsp;&nbsp;&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Iurii_Sm)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iurii.smirnov.qa@gmail.com)
