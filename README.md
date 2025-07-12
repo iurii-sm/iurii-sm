@@ -25,38 +25,57 @@
 
 ## Инструменты и технологии
 
-<p align="left">
+---
 
-Project management:
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/jira.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/zephyr.png" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/youtrack.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/testrail.png" alt="#" width="50" height="50" />
+# 💾 Тестовая документация:
 
-Testing tools:
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/chromedev.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/postman.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/swagger.png" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/charlesproxy.webp" alt="#" width="50" height="50" />
+<div>
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/zephyr.png" title="zephyr" alt="zephyr" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/youtrack.svg" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/testrail.png" title="testrail" alt="testrail" width="40" height="40"/>
+</div>
 
-Cross-browser testing:
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/browserstack.svg" alt="#" width="50" height="50" />
+---
 
-Databases:
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/mysql.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/phpmyadmin.svg" alt="#" width="50" height="50" />
+# 🛠 Testing tools:
 
-Automation (basic):
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/java.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/selenium.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/intellij.png" alt="#" width="50" height="50" />
+<div>
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/chromedev.svg" title="chromedevtools" alt="chromedevtools" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/swagger.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/charlesproxy.webp" title="charlesproxy" alt="charlesproxy" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/browserstack.svg" title="browserstack" alt="browserstack" width="40" height="40"/>
+</div>
 
-Additionally:
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/figma.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/github.svg" alt="#" width="50" height="50" />
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/jenkins.svg" alt="#" width="50" height="50" />
+---
 
-</p>
+# 💾 Databases:
+
+<div>
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/mysql.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/phpmyadmin.svg" title="phpmyadmin" alt="phpmyadmin" width="40" height="40"/>
+</div>
+
+---
+
+# ✏️ Automation (basic experience):
+
+<div>
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/java.svg" title="java" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/selenium.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/intellij.png" title="intellijide" alt="intellijide" width="40" height="40"/>
+</div>
+
+---
+
+# Additionally:
+
+<div>
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/github.svg" title="github" alt="github" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/jenkins.svg" title="jenkins" alt="jenkins" width="40" height="40"/>
+</div>
 
 ---
 ### 📬 Contact Me
