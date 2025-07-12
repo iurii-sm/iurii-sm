@@ -40,7 +40,7 @@ Testing tools:
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/charlesproxy.webp" alt="#" width="50" height="50" />
 
 Cross-browser testing:
-<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/browserctack.svg" alt="#" width="50" height="50" />
+<img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/browserstack.svg" alt="#" width="50" height="50" />
 
 Databases:
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/mysql.svg" alt="#" width="50" height="50" />
