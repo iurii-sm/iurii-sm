@@ -12,28 +12,33 @@
 
 [Посмотреть резюме можно здесь](https://docs.google.com/document/d/1iARkSikuKywoJF7LJLibJqq2XQ0Li9ERGvVEFGLjX0Q/edit?usp=drive_link)
 
-## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://#)
-  -  [Тест-кейсы](https://#)
-  -  [Баг-репорты](https://#)
-- Коллекция Postman 
-  -  [Название проекта](https://#)
-- Автотесты 
+## Portfolio 
+- Test documentation
+  -  [Checklists](https://#)
+  -  [Test Cases](https://#)
+  -  [Bug Reports](https://#)
+- Postman collections 
+  -  [Project Name](https://#)
+- Automated tests 
   -  [Selenium+Java](https://github.com/iurii-sm/autotests.git)
-- SQL запросы 
-  -  [Название проекта](https://#)
-- Прочее 
+- SQL queryies 
+  -  [Project Name](https://#)
+- Others 
   -  [Mind maps](https://#)
-  -  [Посты](https://#)
-       
+  <details>
+    <summary><strong>- Posts</strong></summary>
+  🔹 [The Best Coach for Interview Preparation?](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnRisUBlTAY9Cbu_Y6we3Fv1yMAWkTHlWk)
+  🔹 [Age doesn’t matter — not for learning, not for teaching](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnRisUBlTAY9Cbu_Y6we3Fv1yMAWkTHlWk)
+  🔹 [No ideas? Postman can help!](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnRisUBlTAY9Cbu_Y6we3Fv1yMAWkTHlWk)
+  </details>     
+  
   
 
-## Инструменты и технологии
+## Tools and Technologies
 
 ---
 
-### Тестовая документация:
+### Test documentation:
 
 <div>
 <img src="https://github.com/iurii-sm/iurii-sm/blob/main/media/icons/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
