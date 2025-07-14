@@ -26,7 +26,7 @@
 - Others 
   -  [Mind maps](https://#)
   <details>
-  <summary>Posts</summary>
+  <summary><strong>Posts</strong></summary>
 
   
 - [Bugs – Inspecting the "Expert"](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)  
