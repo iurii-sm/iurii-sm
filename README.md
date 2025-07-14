@@ -28,9 +28,9 @@
   <details>
   <summary><strong>Posts</strong></summary>
   
-- [Bugs – Inspecting the "Expert"](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)  
-- [Age & Study](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV)  
-- [Postman Tips](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU)  
+  - [Bugs – Inspecting the "Expert"](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)  
+  - [Age & Study](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV)  
+  - [Postman Tips](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU)  
 
 </details>
     
