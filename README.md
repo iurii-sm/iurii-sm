@@ -20,7 +20,7 @@
 - Коллекция Postman 
   -  [Название проекта](https://#)
 - Автотесты 
-  -  [Selenium+Java](https://#)
+  -  [Selenium+Java](https://github.com/iurii-sm/autotests.git)
 - SQL запросы 
   -  [Название проекта](https://#)
 - Прочее 
