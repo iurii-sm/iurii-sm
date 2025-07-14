@@ -27,7 +27,6 @@
   -  [Mind maps](https://#)
   <details>
   <summary><strong>Posts</strong></summary>
-
   
 - [Bugs – Inspecting the "Expert"](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)  
 - [Age & Study](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV)  
