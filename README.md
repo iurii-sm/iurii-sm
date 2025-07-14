@@ -27,11 +27,10 @@
   -  [Mind maps](https://#)
   <details>
     <summary><strong>- Posts</strong></summary>
-  🔹 [The Best Coach for Interview Preparation?](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnRisUBlTAY9Cbu_Y6we3Fv1yMAWkTHlWk)
-  🔹 [Age doesn’t matter — not for learning, not for teaching](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnRisUBlTAY9Cbu_Y6we3Fv1yMAWkTHlWk)
-  🔹 [No ideas? Postman can help!](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnRisUBlTAY9Cbu_Y6we3Fv1yMAWkTHlWk)
-  </details>     
-  
+  - [The Best Coach for Interview Preparation?](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)<br>
+  - [Age doesn’t matter — not for learning, not for teaching](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV)<br>
+  - [No ideas? Postman can help!](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU)<br>
+  </details>       
   
 
 ## Tools and Technologies
