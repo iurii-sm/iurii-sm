@@ -27,9 +27,9 @@
   -  [Mind maps](https://#)
   <details>
     <summary><strong>- Posts</strong></summary>
-  - [The Best Coach for Interview Preparation?](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)<br>
-  - [Age doesn’t matter — not for learning, not for teaching](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV)<br>
-  - [No ideas? Postman can help!](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU)<br>
+  - [Bugs - Inspecting the "Expert" ](https://www.linkedin.com/posts/iurii-smirnov-qa_the-best-coach-for-interview-preparation-activity-7341559373489405953-1zNm)  
+  - [Age & study](https://www.linkedin.com/posts/iurii-smirnov-qa_age-doesnt-matter-not-for-learning-activity-7345806942948278272-sTIV)  
+  - [Postman Tips](https://www.linkedin.com/posts/iurii-smirnov-qa_postman-apitesting-manualtesting-activity-7349063929613955076-BtUU)
   </details>       
   
 
